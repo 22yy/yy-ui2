@@ -58,12 +58,12 @@ import 'yy-ui/lib/yy-ui.css'
 ### 输入框(Input)
 
 <br>
-| placeholder  | String  | 占位符，默认为空字符串             |
-| ------------ | ------- | ---------------------------------- |
 | 属性         | 值      | 描述                               |
+| ------------ | ------- | ---------------------------------- |
 | type         | String  | 表单类型，默认为'text'             |
 | name         | String  | 表单命名，默认为空                 |
 | value        | String  | 表单值，默认为空字符串             |
+| placeholder  | String  | 占位符，默认为空字符串             |
 | disabled     | Boolean | 是否禁用，默认为 false             |
 | clearable    | Boolean | 是否可清空，默认为 false           |
 | showPassword | Boolean | 是否显示密码可见，默认为 false     |  
