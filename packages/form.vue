@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import { getCurrentInstance } from 'vue'
+import { getCurrentInstance, provide } from 'vue'
 export default {
   name: 'YForm',
   props: {

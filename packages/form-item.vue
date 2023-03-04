@@ -22,7 +22,7 @@ export default {
   setup(props) {
    const Form = inject('Form', '') 
    const labelStyle = computed(() => {
-    return {width: this.Form.labelWidth}
+    return {width: Form.labelWidth}
    })
    return {
     Form,
