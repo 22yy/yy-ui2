@@ -1,7 +1,8 @@
 {
-  "name": "yy-ui",
+  "name": "yy-ui2",
   "version": "0.1.0",
   "private": false,
+  "main": "dist/yy-ui.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

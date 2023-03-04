@@ -1,16 +1,16 @@
-# yy-ui
+# yy-ui2
 
 - 安装
 
 ```bash
-yarn add yy-ui
+yarn add yy-ui2
 ```
 
 - 全局导入
 
 ```js
-import YyUI from 'yy-ui'
-import 'yy-ui/lib/yy-ui.css'
+import YyUI from 'yy-ui2'
+import 'yy-ui2/lib/yy-ui2.css'
 ```
 
 ## 组件
